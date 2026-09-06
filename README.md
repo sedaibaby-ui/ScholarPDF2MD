@@ -190,4 +190,5 @@ This project is licensed under the GNU Affero General Public License v3.0 (AGPL-
 
 See the `LICENSE` file for details.
 
-致谢 GG LX
+## 致谢 
+GG LX
