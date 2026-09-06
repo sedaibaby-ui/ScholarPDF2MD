@@ -186,4 +186,6 @@ First public source-code test release.
 
 ## License
 
-License information will be added after the dependencies and redistribution requirements are fully reviewed.
+This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
+
+See the `LICENSE` file for details.
